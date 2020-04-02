@@ -1,2 +1,1 @@
-# alaoolusolae-gmail.com
-tindog
+TinDog Starting Files
